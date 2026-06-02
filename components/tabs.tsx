@@ -1,3 +1,5 @@
+"use client"
+
 interface TabsProps {
   tabs: string[]
   activeTab: string
